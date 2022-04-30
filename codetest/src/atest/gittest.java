@@ -7,5 +7,6 @@ public class gittest {
 	 
 	 int actor1=1;
 	 int actor2=2;
+	 int actor3=3;
  }
 }

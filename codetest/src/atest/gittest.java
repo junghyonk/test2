@@ -9,5 +9,6 @@ public class gittest {
 	 int actor2=2;
 	 int actor3=3;
 	 int actor4=4;
+	 System.out.println("hi im actor1");
  }
 }
